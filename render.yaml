@@ -1,7 +1,5 @@
 databases:
   - name: mysite
-    databaseName: MeetorApiv6_development
-    user: em
 
 services:
   - type: web
