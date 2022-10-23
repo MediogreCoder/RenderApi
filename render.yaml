@@ -1,7 +1,7 @@
 databases:
-  - name: MeetorApi
-    databaseName: MeetorApiv6_development
-    user: em
+  - name: mysite
+    databaseName: mysite
+    user: mysite
 
 services:
   - type: web
